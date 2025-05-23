@@ -1,3 +1,4 @@
 import './style.css';
+import { carousel } from './carousel';
 
-const go = 'dfsdf';
+carousel();
